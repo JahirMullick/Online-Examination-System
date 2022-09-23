@@ -95,8 +95,8 @@ echo '<span class="pull-right top title1" ><span class="log1"><span class="glyph
                     </li>
 
                 </ul>
-            </div><!-- /.navbar-collapse -->
-        </div><!-- /.container-fluid -->
+            </div>
+        </div>
     </nav>
     <!--navigation menu closed-->
     <div class="container">
