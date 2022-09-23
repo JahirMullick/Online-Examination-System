@@ -11,6 +11,7 @@ Brief overview of the technology:      Front end: HTML, CSS, JavaScript  HTML: H
   6. To Login as admin put "http://localhost/Online examination system/admin"
 ## Admin Login Details:-
   Login Id: admin@admin.com
+  
   Password: admin
 ## Online examination system features:
  1. Login system must be present and secured by password.
